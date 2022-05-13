@@ -1,0 +1,16 @@
+25902 records, only 115 items above support threshold 647 (0.025).
+
+SupportPair-Item                               - Freq -Support-Bought with                    - FreqPair-Confidence-     Lift
+-----------------------------------------------------------------------------------------------------------------------------
+   0.030268 roses regency teacup and saucer      1120 0.043240 green regency teacup and saucer       784       0.74    17.154
+   0.030268 green regency teacup and saucer      1057 0.040808 roses regency teacup and saucer       784       0.70    17.154
+   0.032160 jumbo bag red retrospot              2135 0.082426 jumbo bag pink polkadot               833       0.68     8.210
+   0.028299 jumbo bag red retrospot              2135 0.082426 jumbo storage bag suki                733       0.61     7.405
+   0.026369 jumbo bag red retrospot              2135 0.082426 jumbo shopper vintage red paisley     683       0.58     6.981
+   0.025017 lunch bag red retrospot              1607 0.062042 lunch bag  black skull.               648       0.50     8.065
+   0.025017 lunch bag  black skull.              1295 0.049996 lunch bag red retrospot               648       0.40     8.065
+   0.032160 jumbo bag pink polkadot              1231 0.047525 jumbo bag red retrospot               833       0.39     8.210
+   0.028299 jumbo storage bag suki               1201 0.046367 jumbo bag red retrospot               733       0.34     7.405
+   0.026369 jumbo shopper vintage red paisley    1187 0.045827 jumbo bag red retrospot               683       0.32     6.981
+-----------------------------------------------------------------------------------------------------------------------------
+Found 10 records.

@@ -1,0 +1,374 @@
+SupportPair-Item                                 - Freq -Support-Bought with                      - FreqPair-Confidence-     Lift
+---------------------------------------------------------------------------------------------------------------------------------
+   0.010540 60 cake cases vintage christmas         622 0.024014 set of 20 vintage christmas napkins     273       0.44    18.426
+   0.018338 jam making set printed                 1174 0.045325 jam making set with jars                475       0.39     8.590
+   0.013204 jam making set with jars               1220 0.047101 recipe box pantry yellow design         342       0.29     6.238
+   0.010076 jumbo storage bag skulls                708 0.027334 lunch bag  black skull.                 261       0.20     7.373
+   0.019998 jumbo bag pink polkadot                1231 0.047525 jumbo storage bag suki                  518       0.43     9.075
+   0.011389 jumbo bag alphabet                      920 0.035518 jumbo storage bag suki                  295       0.25     6.916
+   0.013899 regency cakestand 3 tier               2169 0.083739 white hanging heart t-light holder      360       0.16     1.868
+   0.011466 heart of wicker small                  1212 0.046792 natural slate heart chalkboard          297       0.23     5.014
+   0.010578 charlotte bag suki design               894 0.034515 lunch bag cars blue                     274       0.23     6.768
+   0.022701 jumbo bag red retrospot                2135 0.082426 lunch bag red retrospot                 588       0.37     4.439
+   0.011119 charlotte bag apples design             591 0.022817 lunch bag apple design                  288       0.27    12.033
+   0.016022 jumbo bag red retrospot                2135 0.082426 recycling bag retrospot                 415       0.55     6.686
+   0.010578 jumbo bag woodland animals              872 0.033665 recycling bag retrospot                 274       0.36    10.809
+   0.014323 lunch bag apple design                 1049 0.040499 lunch bag woodland                      371       0.36     8.834
+   0.010540 dotcom postage                          709 0.027372 jumbo bag toys                          273       0.52    18.818
+   0.010424 jumbo bag red retrospot                2135 0.082426 strawberry charlotte bag                270       0.37     4.463
+   0.011544 large white heart of wicker             572 0.022083 small white heart of wicker             299       0.47    21.390
+   0.017412 lunch bag apple design                 1049 0.040499 lunch bag suki design                   451       0.41    10.096
+   0.014980 lunch bag dolly girl design             690 0.026639 lunch bag spaceboy design               388       0.33    12.449
+   0.013319 dotcom postage                          709 0.027372 jumbo bag pink polkadot                 345       0.28    10.239
+   0.010887 set of 3 cake tins pantry design       1458 0.056289 set of 3 regency cake tins              282       0.31     5.505
+   0.010926 jumbo bag owls                          663 0.025596 jumbo bag woodland animals              283       0.32    12.679
+   0.018802 party bunting                          1706 0.065864 spotty bunting                          487       0.42     6.413
+   0.012200 blue harmonica in box                   605 0.023357 red  harmonica in box                   316       0.47    20.193
+   0.010231 lunch bag  black skull.                1295 0.049996 white hanging heart t-light holder      265       0.12     2.303
+   0.010810 hanging heart zinc t-light holder       609 0.023512 single heart zinc t-light holder        280       0.55    23.443
+   0.010810 pack of 72 retrospot cake cases        1334 0.051502 woodland charlotte bag                  280       0.33     6.449
+   0.010617 recycling bag retrospot                 753 0.029071 toy tidy pink polkadot                  275       0.58    19.873
+   0.011196 strawberry ceramic trinket box          758 0.029264 sweetheart ceramic trinket box          290       0.54    18.488
+   0.012238 jumbo bag strawberry                    838 0.032353 jumbo storage bag suki                  317       0.26     8.158
+   0.009999 baking set 9 piece retrospot            961 0.037101 retrospot tea set ceramic 11 pc         259       0.26     7.138
+   0.013821 heart of wicker large                   942 0.036368 white hanging heart t-light holder      358       0.16     4.276
+   0.020307 lunch bag  black skull.                1295 0.049996 lunch bag cars blue                     526       0.45     8.969
+   0.012972 jumbo bag apples                        999 0.038568 jumbo shopper vintage red paisley       336       0.28     7.339
+   0.010849 lunch bag woodland                     1037 0.040036 woodland charlotte bag                  281       0.33     8.326
+   0.012625 jumbo bag red retrospot                2135 0.082426 lunch bag cars blue                     327       0.28     3.382
+   0.011737 jumbo storage bag suki                 1201 0.046367 white hanging heart t-light holder      304       0.13     2.848
+   0.012354 regency cakestand 3 tier               2169 0.083739 set of 3 cake tins pantry design        320       0.22     2.621
+   0.010231 hot water bottle keep calm              790 0.030500 hot water bottle tea and sympathy       265       0.41    13.408
+   0.011428 alarm clock bakelike chocolate          441 0.017026 alarm clock bakelike red                296       0.27    16.083
+   0.012084 round snack boxes set of 4 fruits       597 0.023048 round snack boxes set of4 woodland      313       0.42    18.131
+   0.010038 regency cakestand 3 tier               2169 0.083739 woodland charlotte bag                  260       0.31     3.683
+   0.020771 dolly girl lunch box                    860 0.033202 spaceboy lunch box                      538       0.59    17.846
+   0.016022 lunch bag  black skull.                1295 0.049996 lunch bag apple design                  415       0.40     7.913
+   0.011544 jumbo bag red retrospot                2135 0.082426 lunch bag apple design                  299       0.29     3.458
+   0.010424 plasters in tin circus parade           581 0.022431 plasters in tin spaceboy                270       0.40    17.676
+   0.018802 lunch bag cars blue                    1173 0.045286 lunch bag spaceboy design               487       0.42     9.191
+   0.018647 lunch bag spaceboy design              1170 0.045170 lunch bag woodland                      483       0.47    10.311
+   0.011968 alarm clock bakelike orange             462 0.017836 alarm clock bakelike red                310       0.29    16.078
+   0.010501 dotcom postage                          709 0.027372 jumbo  bag baroque black white          272       0.29    10.493
+   0.010424 jam making set with jars               1220 0.047101 set of 6 spice tins pantry design       270       0.32     6.776
+   0.010463 chocolate hot water bottle              866 0.033434 hot water bottle keep calm              271       0.34    10.260
+   0.021774 lunch bag red retrospot                1607 0.062042 lunch bag suki design                   564       0.51     8.242
+   0.020307 charlotte bag pink polkadot             760 0.029341 red retrospot charlotte bag             526       0.50    17.073
+   0.019304 red hanging heart t-light holder        754 0.029110 white hanging heart t-light holder      500       0.22     7.462
+   0.011042 lunch bag  black skull.                1295 0.049996 woodland charlotte bag                  286       0.34     6.786
+   0.011157 jumbo bag toys                          530 0.020462 jumbo bag woodland animals              289       0.33    16.197
+   0.015250 lunch bag apple design                 1049 0.040499 lunch bag spaceboy design               395       0.34     8.336
+   0.025017 lunch bag  black skull.                1295 0.049996 lunch bag red retrospot                 648       0.40     8.065
+   0.011544 jumbo bag pink polkadot                1231 0.047525 recycling bag retrospot                 299       0.40     8.355
+   0.010771 lunch bag red retrospot                1607 0.062042 lunch bag vintage doily                 279       0.46     7.396
+   0.017566 lunch bag cars blue                    1173 0.045286 lunch bag woodland                      455       0.44     9.689
+   0.010694 lunch bag red retrospot                1607 0.062042 regency cakestand 3 tier                277       0.13     2.058
+   0.010192 blue happy birthday bunting             393 0.015173 pink happy birthday bunting             264       0.65    42.857
+   0.015211 jumbo bag owls                          663 0.025596 jumbo bag red retrospot                 394       0.18     7.210
+   0.010926 charlotte bag suki design               894 0.034515 jumbo storage bag suki                  283       0.24     6.827
+   0.016215 jumbo bag alphabet                      920 0.035518 jumbo bag red retrospot                 420       0.20     5.539
+   0.012933 hand warmer owl design                  665 0.025674 hand warmer scotty dog design           335       0.61    23.596
+   0.011852 set of 12 fairy cake baking cases       557 0.021504 set of 12 mini loaf baking cases        307       0.68    31.796
+   0.017373 jumbo bag woodland animals              872 0.033665 jumbo storage bag suki                  450       0.37    11.130
+   0.010347 lunch bag cars blue                    1173 0.045286 strawberry charlotte bag                268       0.37     8.063
+   0.010540 60 cake cases vintage christmas         622 0.024014 paper chain kit 50's christmas          273       0.23     9.717
+   0.012856 jumbo bag red retrospot                2135 0.082426 pack of 72 retrospot cake cases         333       0.25     3.028
+   0.016061 natural slate heart chalkboard         1266 0.048877 white hanging heart t-light holder      416       0.18     3.697
+   0.011428 lunch bag suki design                  1103 0.042584 lunch bag vintage leaf design           296       0.44    10.344
+   0.014787 jumbo bag pink polkadot                1231 0.047525 jumbo bag pink vintage paisley          383       0.44     9.189
+   0.011852 charlotte bag pink polkadot             760 0.029341 lunch bag red retrospot                 307       0.19     6.511
+   0.011698 72 sweetheart fairy cake cases          619 0.023898 pack of 72 retrospot cake cases         303       0.23     9.505
+   0.010887 jumbo bag pink polkadot                1231 0.047525 jumbo bag toys                          282       0.53    11.196
+   0.010694 jumbo  bag baroque black white          947 0.036561 jumbo bag pink vintage paisley          277       0.32     8.639
+   0.016176 lunch bag pink polkadot                1110 0.042854 lunch bag suki design                   419       0.38     8.864
+   0.010038 assorted colour bird ornament          1467 0.056637 painted metal pears assorted            260       0.70    12.341
+   0.014130 jumbo bag pink vintage paisley          877 0.033858 jumbo storage bag suki                  366       0.30     9.001
+   0.011157 jumbo bag pink vintage paisley          877 0.033858 jumbo bag strawberry                    289       0.34    10.186
+   0.011621 recipe box pantry yellow design        1164 0.044939 regency cakestand 3 tier                301       0.14     3.088
+   0.010926 plasters in tin circus parade           581 0.022431 plasters in tin woodland animals        283       0.40    17.795
+   0.010463 pink blue felt craft trinket box        526 0.020307 pink cream felt craft trinket box       271       0.44    21.594
+   0.011659 lunch bag  black skull.                1295 0.049996 lunch bag dolly girl design             302       0.44     8.754
+   0.010540 lunch bag apple design                 1049 0.040499 red retrospot charlotte bag             273       0.26     6.420
+   0.012161 jumbo bag pears                         601 0.023203 jumbo bag vintage leaf                  315       0.36    15.340
+   0.010926 jumbo storage bag suki                 1201 0.046367 lunch bag  black skull.                 283       0.22     4.713
+   0.011621 jumbo shopper vintage red paisley      1187 0.045827 jumbo storage bag skulls                301       0.43     9.277
+   0.010308 jam making set with jars               1220 0.047101 pack of 72 retrospot cake cases         267       0.20     4.249
+   0.010656 recipe box pantry yellow design        1164 0.044939 set of 4 pantry jelly moulds            276       0.26     5.676
+   0.010463 pack of 72 retrospot cake cases        1334 0.051502 recipe box pantry yellow design         271       0.23     4.521
+   0.011235 jam making set with jars               1220 0.047101 regency cakestand 3 tier                291       0.13     2.848
+   0.011505 jumbo bag red retrospot                2135 0.082426 red toadstool led night light           298       0.35     4.199
+   0.010733 lunch bag pink polkadot                1110 0.042854 red retrospot charlotte bag             278       0.26     6.178
+   0.015057 jumbo bag woodland animals              872 0.033665 jumbo shopper vintage red paisley       390       0.33     9.760
+   0.013628 jumbo bag scandinavian blue paisley     670 0.025867 jumbo shopper vintage red paisley       353       0.30    11.497
+   0.015327 charlotte bag pink polkadot             760 0.029341 woodland charlotte bag                  397       0.47    16.050
+   0.014130 jumbo bag apples                        999 0.038568 lunch bag apple design                  366       0.35     9.046
+   0.021427 paper chain kit 50's christmas         1170 0.045170 paper chain kit vintage christmas       555       0.67    14.768
+   0.018917 red retrospot charlotte bag            1050 0.040537 strawberry charlotte bag                490       0.67    16.468
+   0.016717 jumbo bag red retrospot                2135 0.082426 red retrospot charlotte bag             433       0.41     5.003
+   0.009999 roses regency teacup and saucer        1120 0.043240 white hanging heart t-light holder      259       0.11     2.602
+   0.012316 jumbo bag owls                          663 0.025596 jumbo storage bag suki                  319       0.27    10.377
+   0.012470 lunch bag red retrospot                1607 0.062042 party bunting                           323       0.19     3.052
+   0.011350 jumbo bag pears                         601 0.023203 jumbo bag red retrospot                 294       0.14     5.935
+   0.013899 jumbo bag red retrospot                2135 0.082426 jumbo bag vintage doily                 360       0.50     6.033
+   0.010385 green regency teacup and saucer        1057 0.040808 white hanging heart t-light holder      269       0.12     2.864
+   0.011891 jumbo bag red retrospot                2135 0.082426 set of 3 cake tins pantry design        308       0.21     2.563
+   0.013435 charlotte bag suki design               894 0.034515 lunch bag red retrospot                 348       0.22     6.274
+   0.012084 regency cakestand 3 tier               2169 0.083739 set of 3 regency cake tins              313       0.34     4.107
+   0.010694 set of 3 cake tins pantry design       1458 0.056289 set of tea coffee sugar tins pantry     277       0.55     9.745
+   0.016717 pack of 60 pink paisley cake cases      875 0.033781 pack of 72 retrospot cake cases         433       0.32     9.609
+   0.010076 set of 12 fairy cake baking cases       557 0.021504 set of 6 tea time baking cases          261       0.68    31.607
+   0.019072 heart of wicker large                   942 0.036368 heart of wicker small                   494       0.41    11.207
+   0.010964 lunch bag suki design                  1103 0.042584 red retrospot charlotte bag             284       0.27     6.352
+   0.023705 pink regency teacup and saucer          801 0.030924 roses regency teacup and saucer         614       0.55    17.728
+   0.010115 green regency teacup and saucer        1057 0.040808 jam making set with jars                262       0.21     5.263
+   0.014130 jumbo bag apples                        999 0.038568 jumbo bag vintage leaf                  366       0.41    10.723
+   0.010926 charlotte bag pink polkadot             760 0.029341 jumbo bag red retrospot                 283       0.13     4.518
+   0.010733 jam making set printed                 1174 0.045325 set of 4 pantry jelly moulds            278       0.26     5.669
+   0.010501 charlotte bag pink polkadot             760 0.029341 lunch bag  black skull.                 272       0.21     7.158
+   0.010269 lunch bag dolly girl design             690 0.026639 lunch bag pink polkadot                 266       0.24     8.996
+   0.010656 gin + tonic diet metal sign             766 0.029573 please one person metal sign            276       0.32    10.916
+   0.016678 jumbo bag red retrospot                2135 0.082426 jumbo bag spaceboy design               432       0.62     7.574
+   0.013667 lunch bag  black skull.                1295 0.049996 red retrospot charlotte bag             354       0.34     6.743
+   0.011196 jumbo bag red retrospot                2135 0.082426 red retrospot shopper bag               290       0.50     6.066
+   0.012354 pack of 60 dinosaur cake cases          604 0.023319 pack of 72 retrospot cake cases         320       0.24    10.287
+   0.014825 jumbo bag red retrospot                2135 0.082426 lunch bag  black skull.                 384       0.30     3.597
+   0.013358 jumbo bag pink vintage paisley          877 0.033858 jumbo bag scandinavian blue paisley     346       0.52    15.252
+   0.016331 jumbo  bag baroque black white          947 0.036561 jumbo storage bag suki                  423       0.35     9.633
+   0.013165 white hanging heart t-light holder     2302 0.088873 wooden frame antique white              341       0.35     3.887
+   0.011466 home building block word                787 0.030384 love building block word                297       0.47    15.491
+   0.012779 jumbo bag pink polkadot                1231 0.047525 jumbo storage bag skulls                331       0.47     9.837
+   0.011350 lunch bag  black skull.                1295 0.049996 lunch bag vintage leaf design           294       0.44     8.751
+   0.015520 pink regency teacup and saucer          801 0.030924 regency cakestand 3 tier                402       0.19     5.993
+   0.010849 lunch bag  black skull.                1295 0.049996 pack of 72 retrospot cake cases         281       0.21     4.213
+   0.011157 jam making set with jars               1220 0.047101 jumbo bag red retrospot                 289       0.14     2.874
+   0.010038 60 teatime fairy cake cases             836 0.032275 pack of 60 dinosaur cake cases          260       0.43    13.337
+   0.010771 alarm clock bakelike ivory              583 0.022508 alarm clock bakelike pink               279       0.35    15.514
+   0.011659 jumbo bag red retrospot                2135 0.082426 woodland charlotte bag                  302       0.36     4.346
+   0.016292 jumbo bag pink vintage paisley          877 0.033858 jumbo shopper vintage red paisley       422       0.36    10.500
+   0.019574 red retrospot charlotte bag            1050 0.040537 woodland charlotte bag                  507       0.60    14.836
+   0.012123 poppy's playhouse bedroom               426 0.016447 poppy's playhouse kitchen               314       0.71    43.391
+   0.015018 wooden heart christmas scandinavian     540 0.020848 wooden star christmas scandinavian      389       0.76    36.231
+   0.011659 ivory kitchen scales                    724 0.027952 red kitchen scales                      302       0.53    18.955
+   0.012509 jumbo bag pink polkadot                1231 0.047525 lunch bag red retrospot                 324       0.20     4.242
+   0.013049 dotcom postage                          709 0.027372 recycling bag retrospot                 338       0.45    16.399
+   0.010540 jumbo bag apples                        999 0.038568 lunch bag red retrospot                 273       0.17     4.405
+   0.013204 plasters in tin spaceboy                681 0.026291 plasters in tin woodland animals        342       0.48    18.347
+   0.011466 cook with wine metal sign               734 0.028338 hand over the chocolate   sign          297       0.44    15.413
+   0.012084 lunch bag red retrospot                1607 0.062042 woodland charlotte bag                  313       0.37     5.985
+   0.010347 party bunting                          1706 0.065864 red retrospot charlotte bag             268       0.26     3.875
+   0.015829 white hanging heart t-light holder     2302 0.088873 wooden picture frame white finish       410       0.37     4.126
+   0.032160 jumbo bag pink polkadot                1231 0.047525 jumbo bag red retrospot                 833       0.39     8.210
+   0.013165 jumbo bag pink polkadot                1231 0.047525 jumbo bag spaceboy design               341       0.49    10.369
+   0.026369 jumbo bag red retrospot                2135 0.082426 jumbo shopper vintage red paisley       683       0.58     6.981
+   0.010887 regency tea plate green                 386 0.014902 regency tea plate pink                  282       0.90    60.265
+   0.010424 assorted colour bird ornament          1467 0.056637 regency cakestand 3 tier                270       0.12     2.198
+   0.010926 alarm clock bakelike red               1081 0.041734 regency cakestand 3 tier                283       0.13     3.126
+   0.017721 charlotte bag suki design               894 0.034515 woodland charlotte bag                  459       0.54    15.775
+   0.012277 jumbo bag alphabet                      920 0.035518 jumbo bag vintage leaf                  318       0.36    10.116
+   0.010540 jumbo bag alphabet                      920 0.035518 jumbo bag pink polkadot                 273       0.22     6.244
+   0.011042 hand warmer bird design                 560 0.021620 hand warmer scotty dog design           286       0.52    23.921
+   0.014285 set/20 red retrospot paper napkins      988 0.038144 set/6 red spotty paper plates           370       0.70    18.406
+   0.018724 dotcom postage                          709 0.027372 jumbo bag red retrospot                 485       0.23     8.299
+   0.013435 jumbo bag red retrospot                2135 0.082426 jumbo bag toys                          348       0.66     7.966
+   0.010463 green regency teacup and saucer        1057 0.040808 jumbo bag red retrospot                 271       0.13     3.110
+   0.012972 alarm clock bakelike green             1001 0.038646 alarm clock bakelike ivory              336       0.58    14.913
+   0.010771 regency tea plate roses                 457 0.017643 roses regency teacup and saucer         279       0.25    14.119
+   0.015057 party bunting                          1706 0.065864 white hanging heart t-light holder      390       0.17     2.572
+   0.011737 charlotte bag apples design             591 0.022817 charlotte bag suki design               304       0.34    14.903
+   0.011659 jumbo bag pink polkadot                1231 0.047525 lunch bag pink polkadot                 302       0.27     5.725
+   0.010154 lunch bag woodland                     1037 0.040036 red retrospot charlotte bag             263       0.25     6.256
+   0.010810 pink vintage paisley picnic bag         414 0.015983 scandinavian paisley picnic bag         280       0.62    39.016
+   0.012663 charlotte bag suki design               894 0.034515 jumbo bag red retrospot                 328       0.15     4.451
+   0.010308 lunch box i love london                 725 0.027990 spaceboy lunch box                      267       0.29    10.506
+   0.015095 heart of wicker small                  1212 0.046792 white hanging heart t-light holder      391       0.17     3.630
+   0.021041 jumbo bag red retrospot                2135 0.082426 jumbo bag strawberry                    545       0.65     7.890
+   0.020153 jumbo bag pink vintage paisley          877 0.033858 jumbo bag red retrospot                 522       0.24     7.221
+   0.013667 60 teatime fairy cake cases             836 0.032275 pack of 60 pink paisley cake cases      354       0.40    12.535
+   0.014555 lunch bag alphabet design               753 0.029071 lunch bag apple design                  377       0.36    12.362
+   0.020269 jumbo shopper vintage red paisley      1187 0.045827 jumbo storage bag suki                  525       0.44     9.539
+   0.013474 jumbo bag pink polkadot                1231 0.047525 jumbo bag strawberry                    349       0.42     8.763
+   0.014207 jumbo bag red retrospot                2135 0.082426 lunch bag pink polkadot                 368       0.33     4.022
+   0.019998 lunch bag  black skull.                1295 0.049996 lunch bag suki design                   518       0.47     9.393
+   0.010269 lunch bag spaceboy design              1170 0.045170 lunch bag vintage leaf design           266       0.40     8.763
+   0.010269 lunch bag cars blue                    1173 0.045286 woodland charlotte bag                  266       0.32     6.968
+   0.011814 pack of 72 retrospot cake cases        1334 0.051502 party bunting                           306       0.18     3.483
+   0.011389 recipe box pantry yellow design        1164 0.044939 white hanging heart t-light holder      295       0.13     2.852
+   0.011737 lunch bag red retrospot                1607 0.062042 strawberry charlotte bag                304       0.41     6.676
+   0.010154 poppy's playhouse kitchen               440 0.016987 poppy's playhouse livingroom            263       0.80    46.916
+   0.011196 dotcom postage                          709 0.027372 natural slate heart chalkboard          290       0.23     8.369
+   0.010385 jam making set with jars               1220 0.047101 white hanging heart t-light holder      269       0.12     2.481
+   0.012045 hand warmer bird design                 560 0.021620 hand warmer owl design                  312       0.47    21.701
+   0.011119 jumbo  bag baroque black white          947 0.036561 jumbo bag apples                        288       0.29     7.885
+   0.013512 set/6 red spotty paper cups             428 0.016524 set/6 red spotty paper plates           350       0.66    40.193
+   0.015134 lunch bag suki design                  1103 0.042584 lunch bag woodland                      392       0.38     8.877
+   0.010115 poppy's playhouse bedroom               426 0.016447 poppy's playhouse livingroom            262       0.79    48.274
+   0.012779 jam making set printed                 1174 0.045325 recipe box pantry yellow design         331       0.28     6.274
+   0.010231 jumbo  bag baroque black white          947 0.036561 jumbo storage bag skulls                265       0.37    10.238
+   0.015366 party bunting                          1706 0.065864 regency cakestand 3 tier                398       0.18     2.786
+   0.021427 jumbo bag apples                        999 0.038568 jumbo bag red retrospot                 555       0.26     6.740
+   0.011814 jumbo storage bag suki                 1201 0.046367 lunch bag suki design                   306       0.28     5.983
+   0.019805 lunch bag  black skull.                1295 0.049996 lunch bag spaceboy design               513       0.44     8.770
+   0.011080 jumbo shopper vintage red paisley      1187 0.045827 lunch bag red retrospot                 287       0.18     3.897
+   0.015752 strawberry charlotte bag                734 0.028338 woodland charlotte bag                  408       0.48    17.079
+   0.010347 jumbo bag vintage leaf                  885 0.034167 jumbo storage bag suki                  268       0.22     6.531
+   0.016640 lunch bag pink polkadot                1110 0.042854 lunch bag spaceboy design               431       0.37     8.596
+   0.011428 set/20 red retrospot paper napkins      988 0.038144 set/6 red spotty paper cups             296       0.69    18.131
+   0.018416 alarm clock bakelike pink               799 0.030847 alarm clock bakelike red                477       0.44    14.305
+   0.016022 charlotte bag pink polkadot             760 0.029341 charlotte bag suki design               415       0.46    15.821
+   0.013860 pack of 72 retrospot cake cases        1334 0.051502 regency cakestand 3 tier                359       0.17     3.214
+   0.012470 lunch bag alphabet design               753 0.029071 lunch bag suki design                   323       0.29    10.073
+   0.017682 60 teatime fairy cake cases             836 0.032275 pack of 72 retrospot cake cases         458       0.34    10.637
+   0.011737 jumbo bag apples                        999 0.038568 jumbo bag woodland animals              304       0.35     9.039
+   0.012509 jumbo bag 50's christmas                723 0.027913 jumbo bag vintage christmas             324       0.67    24.032
+   0.011852 lunch bag cars blue                    1173 0.045286 red retrospot charlotte bag             307       0.29     6.456
+   0.011659 pack of 72 retrospot cake cases        1334 0.051502 set/20 red retrospot paper napkins      302       0.31     5.935
+   0.010578 jumbo  bag baroque black white          947 0.036561 jumbo bag strawberry                    274       0.33     8.943
+   0.011080 dotcom postage                          709 0.027372 roses regency teacup and saucer         287       0.26     9.362
+   0.012123 lunch bag alphabet design               753 0.029071 lunch bag red retrospot                 314       0.20     6.721
+   0.010038 jumbo  bag baroque black white          947 0.036561 jumbo bag owls                          260       0.39    10.726
+   0.011119 jumbo bag red retrospot                2135 0.082426 regency cakestand 3 tier                288       0.13     1.611
+   0.012779 charlotte bag apples design             591 0.022817 red retrospot charlotte bag             331       0.32    13.816
+   0.016099 jumbo  bag baroque black white          947 0.036561 jumbo bag pink polkadot                 417       0.34     9.265
+   0.010269 jumbo bag red retrospot                2135 0.082426 set of 4 pantry jelly moulds            266       0.25     2.983
+   0.010771 jumbo bag woodland animals              872 0.033665 jumbo storage bag skulls                279       0.39    11.705
+   0.030268 green regency teacup and saucer        1057 0.040808 roses regency teacup and saucer         784       0.70    17.154
+   0.011968 jam making set with jars               1220 0.047101 set of 4 pantry jelly moulds            310       0.29     6.083
+   0.010926 lunch bag  black skull.                1295 0.049996 strawberry charlotte bag                283       0.39     7.712
+   0.011389 bathroom metal sign                     678 0.026176 toilet metal sign                       295       0.72    27.488
+   0.022894 jumbo  bag baroque black white          947 0.036561 jumbo bag red retrospot                 593       0.28     7.597
+   0.011003 jumbo bag red retrospot                2135 0.082426 wooden picture frame white finish       285       0.25     3.093
+   0.012933 baking set 9 piece retrospot            961 0.037101 baking set spaceboy design              335       0.70    18.811
+   0.010269 jumbo bag toys                          530 0.020462 jumbo shopper vintage red paisley       266       0.22    10.952
+   0.012431 pack of 72 retrospot cake cases        1334 0.051502 red retrospot charlotte bag             322       0.31     5.954
+   0.010964 jumbo bag red retrospot                2135 0.082426 lunch bag spaceboy design               284       0.24     2.945
+   0.011505 set of 3 cake tins pantry design       1458 0.056289 set of 4 pantry jelly moulds            298       0.28     4.893
+   0.014864 jam making set with jars               1220 0.047101 set of 3 cake tins pantry design        385       0.26     5.606
+   0.013821 lunch bag dolly girl design             690 0.026639 lunch bag red retrospot                 358       0.22     8.363
+   0.011428 dotcom postage                          709 0.027372 jam making set printed                  296       0.25     9.211
+   0.019690 charlotte bag suki design               894 0.034515 red retrospot charlotte bag             510       0.49    14.073
+   0.010771 jumbo storage bag suki                 1201 0.046367 red retrospot charlotte bag             279       0.27     5.731
+   0.010964 candleholder pink hanging heart         403 0.015559 white hanging heart t-light holder      284       0.12     7.929
+   0.010733 christmas craft little friends          547 0.021118 christmas craft tree top angel          278       0.60    28.556
+   0.012354 jumbo bag pink polkadot                1231 0.047525 jumbo bag scandinavian blue paisley     320       0.48    10.050
+   0.014246 jumbo bag apples                        999 0.038568 jumbo bag pink polkadot                 369       0.30     7.772
+   0.020732 regency cakestand 3 tier               2169 0.083739 roses regency teacup and saucer         537       0.48     5.726
+   0.011196 lunch bag spaceboy design              1170 0.045170 red retrospot charlotte bag             290       0.28     6.114
+   0.010540 jumbo bag vintage doily                 724 0.027952 lunch bag vintage doily                 273       0.45    16.064
+   0.015250 dotcom postage                          709 0.027372 jumbo storage bag suki                  395       0.33    12.015
+   0.010269 hot water bottle i am so poorly         663 0.025596 hot water bottle tea and sympathy       266       0.41    16.037
+   0.012431 regency tea plate green                 386 0.014902 regency tea plate roses                 322       0.70    47.281
+   0.013397 jumbo bag spaceboy design               692 0.026716 jumbo storage bag suki                  347       0.29    10.815
+   0.013512 small dolly mix design orange bowl      528 0.020385 small marshmallows pink bowl            350       0.78    38.326
+   0.015250 chocolate hot water bottle              866 0.033434 hot water bottle i am so poorly         395       0.60    17.820
+   0.024940 alarm clock bakelike green             1001 0.038646 alarm clock bakelike red                646       0.60    15.463
+   0.012818 lunch bag red retrospot                1607 0.062042 white hanging heart t-light holder      332       0.14     2.325
+   0.010887 jumbo bag owls                          663 0.025596 jumbo bag pink polkadot                 282       0.23     8.950
+   0.013937 dotcom postage                          709 0.027372 jumbo bag woodland animals              361       0.41    15.124
+   0.010501 regency tea plate pink                  314 0.012123 regency tea plate roses                 272       0.60    49.097
+   0.010578 gin + tonic diet metal sign             766 0.029573 hand over the chocolate   sign          274       0.40    13.625
+   0.011042 charlotte bag suki design               894 0.034515 lunch bag suki design                   286       0.26     7.513
+   0.017450 jumbo bag red retrospot                2135 0.082426 white hanging heart t-light holder      452       0.20     2.382
+   0.011621 pack of 60 spaceboy cake cases          522 0.020153 pack of 72 retrospot cake cases         301       0.23    11.196
+   0.010154 jumbo bag owls                          663 0.025596 jumbo shopper vintage red paisley       263       0.22     8.656
+   0.012818 jumbo bag red retrospot                2135 0.082426 party bunting                           332       0.19     2.361
+   0.011775 lunch bag  black skull.                1295 0.049996 lunch bag alphabet design               305       0.41     8.102
+   0.014400 pack of 72 retrospot cake cases        1334 0.051502 pack of 72 skull cake cases             373       0.56    10.907
+   0.011157 jumbo bag red retrospot                2135 0.082426 recipe box pantry yellow design         289       0.25     3.012
+   0.021041 wooden frame antique white              987 0.038105 wooden picture frame white finish       545       0.49    12.793
+   0.010656 charlotte bag suki design               894 0.034515 pack of 72 retrospot cake cases         276       0.21     5.994
+   0.015906 set of 3 cake tins pantry design       1458 0.056289 set of 6 spice tins pantry design       412       0.49     8.652
+   0.013590 lunch bag red retrospot                1607 0.062042 pack of 72 retrospot cake cases         352       0.26     4.253
+   0.010076 jumbo  bag baroque black white          947 0.036561 lunch bag red retrospot                 261       0.16     4.442
+   0.010733 60 teatime fairy cake cases             836 0.032275 72 sweetheart fairy cake cases          278       0.45    13.915
+   0.016138 charlotte bag suki design               894 0.034515 strawberry charlotte bag                418       0.57    16.500
+   0.011273 charlotte bag apples design             591 0.022817 woodland charlotte bag                  292       0.35    15.181
+   0.017721 lunch bag spaceboy design              1170 0.045170 lunch bag suki design                   459       0.42     9.213
+   0.009999 jumbo bag vintage leaf                  885 0.034167 jumbo shopper vintage red paisley       259       0.22     6.386
+   0.021195 gardeners kneeling pad cup of tea       765 0.029534 gardeners kneeling pad keep calm        549       0.59    20.117
+   0.010617 jumbo bag spaceboy design               692 0.026716 jumbo shopper vintage red paisley       275       0.23     8.672
+   0.012045 chocolate hot water bottle              866 0.033434 scottie dog hot water bottle            312       0.40    11.995
+   0.021118 lunch bag  black skull.                1295 0.049996 lunch bag pink polkadot                 547       0.49     9.857
+   0.010964 lunch bag dolly girl design             690 0.026639 lunch bag suki design                   284       0.26     9.666
+   0.012586 set of 3 cake tins pantry design       1458 0.056289 white hanging heart t-light holder      326       0.14     2.516
+   0.014748 charlotte bag pink polkadot             760 0.029341 strawberry charlotte bag                382       0.52    17.737
+   0.020539 lunch bag red retrospot                1607 0.062042 lunch bag woodland                      532       0.51     8.269
+   0.011775 jumbo  bag baroque black white          947 0.036561 jumbo bag woodland animals              305       0.35     9.567
+   0.011157 victorian glass hanging t-light        1062 0.041001 white hanging heart t-light holder      289       0.13     3.062
+   0.012972 chocolate hot water bottle              866 0.033434 hot water bottle tea and sympathy       336       0.52    15.509
+   0.015481 lunch bag pink polkadot                1110 0.042854 lunch bag woodland                      401       0.39     9.024
+   0.009999 charlotte bag apples design             591 0.022817 strawberry charlotte bag                259       0.35    15.465
+   0.013281 jumbo storage bag suki                 1201 0.046367 lunch bag red retrospot                 344       0.21     4.617
+   0.012972 dotcom postage                          709 0.027372 suki  shoulder bag                      336       0.63    23.117
+   0.018917 lunch bag apple design                 1049 0.040499 lunch bag red retrospot                 490       0.30     7.529
+   0.010887 lunch bag alphabet design               753 0.029071 lunch bag vintage leaf design           282       0.42    14.435
+   0.016176 alarm clock bakelike green             1001 0.038646 alarm clock bakelike pink               419       0.52    13.570
+   0.021659 lunch bag cars blue                    1173 0.045286 lunch bag red retrospot                 561       0.35     7.709
+   0.016369 jumbo  bag baroque black white          947 0.036561 jumbo shopper vintage red paisley       424       0.36     9.770
+   0.010308 retrospot heart hot water bottle        631 0.024361 scottie dog hot water bottle            267       0.34    14.088
+   0.012470 assorted colour bird ornament          1467 0.056637 white hanging heart t-light holder      323       0.14     2.477
+   0.011080 jumbo bag red retrospot                2135 0.082426 set/20 red retrospot paper napkins      287       0.29     3.524
+   0.014632 jumbo bag apples                        999 0.038568 jumbo storage bag suki                  379       0.32     8.182
+   0.024863 green regency teacup and saucer        1057 0.040808 pink regency teacup and saucer          644       0.80    19.702
+   0.014014 dotcom postage                          709 0.027372 jumbo shopper vintage red paisley       363       0.31    11.172
+   0.013551 lunch bag apple design                 1049 0.040499 lunch bag pink polkadot                 351       0.32     7.808
+   0.010617 jam making set printed                 1174 0.045325 pack of 72 retrospot cake cases         275       0.21     4.548
+   0.010154 set of 4 pantry jelly moulds           1082 0.041773 white hanging heart t-light holder      263       0.11     2.735
+   0.011042 lunch bag alphabet design               753 0.029071 lunch bag cars blue                     286       0.24     8.387
+   0.023666 lunch bag pink polkadot                1110 0.042854 lunch bag red retrospot                 613       0.38     8.901
+   0.011698 jumbo bag scandinavian blue paisley     670 0.025867 jumbo storage bag suki                  303       0.25     9.753
+   0.010656 jumbo bag dolly girl design             452 0.017450 jumbo bag red retrospot                 276       0.13     7.408
+   0.017335 lunch bag  black skull.                1295 0.049996 lunch bag woodland                      449       0.43     8.660
+   0.010540 jumbo shopper vintage red paisley      1187 0.045827 white hanging heart t-light holder      273       0.12     2.588
+   0.011428 jumbo storage bag suki                 1201 0.046367 recycling bag retrospot                 296       0.39     8.478
+   0.010887 wooden star christmas scandinavian      515 0.019883 wooden tree christmas scandinavian      282       0.83    41.838
+   0.010038 jumbo bag 50's christmas                723 0.027913 paper chain kit 50's christmas          260       0.22     7.961
+   0.012316 jumbo bag red retrospot                2135 0.082426 natural slate heart chalkboard          319       0.25     3.057
+   0.014014 lunch bag apple design                 1049 0.040499 lunch bag vintage leaf design           363       0.54    13.338
+   0.013435 jam making set printed                 1174 0.045325 set of 3 cake tins pantry design        348       0.24     5.266
+   0.011852 cook with wine metal sign               734 0.028338 gin + tonic diet metal sign             307       0.40    14.143
+   0.010424 lunch bag pink polkadot                1110 0.042854 white hanging heart t-light holder      270       0.12     2.737
+   0.019998 green regency teacup and saucer        1057 0.040808 regency cakestand 3 tier                518       0.24     5.852
+   0.011312 jumbo bag red retrospot                2135 0.082426 lunch bag woodland                      293       0.28     3.428
+   0.015366 recipe box pantry yellow design        1164 0.044939 set of 3 cake tins pantry design        398       0.27     6.074
+   0.010694 alarm clock bakelike green             1001 0.038646 alarm clock bakelike orange             277       0.60    15.514
+   0.012779 dotcom postage                          709 0.027372 green regency teacup and saucer         331       0.31    11.440
+   0.010733 alarm clock bakelike chocolate          441 0.017026 alarm clock bakelike green              278       0.28    16.312
+   0.016485 jumbo bag red retrospot                2135 0.082426 jumbo bag vintage leaf                  427       0.48     5.854
+   0.018223 jumbo bag pink polkadot                1231 0.047525 jumbo shopper vintage red paisley       472       0.40     8.367
+   0.011003 lunch bag dolly girl design             690 0.026639 lunch bag woodland                      285       0.27    10.317
+   0.010694 lunch bag cars blue                    1173 0.045286 lunch bag dolly girl design             277       0.40     8.865
+   0.020771 jumbo bag red retrospot                2135 0.082426 jumbo bag woodland animals              538       0.62     7.485
+   0.018338 lunch bag cars blue                    1173 0.045286 lunch bag suki design                   475       0.43     9.509
+   0.010810 jumbo bag pink vintage paisley          877 0.033858 jumbo bag woodland animals              280       0.32     9.484
+   0.015327 lunch bag red retrospot                1607 0.062042 red retrospot charlotte bag             397       0.38     6.094
+   0.017450 jumbo bag red retrospot                2135 0.082426 jumbo bag scandinavian blue paisley     452       0.67     8.185
+   0.010424 pack of 72 retrospot cake cases        1334 0.051502 white hanging heart t-light holder      270       0.12     2.277
+   0.011852 lunch bag alphabet design               753 0.029071 lunch bag spaceboy design               307       0.26     9.026
+   0.010501 dotcom postage                          709 0.027372 white hanging heart t-light holder      272       0.12     4.317
+   0.012779 jumbo bag red retrospot                2135 0.082426 lunch bag suki design                   331       0.30     3.641
+   0.015288 jumbo bag alphabet                      920 0.035518 jumbo bag apples                        396       0.40    11.160
+   0.028299 jumbo bag red retrospot                2135 0.082426 jumbo storage bag suki                  733       0.61     7.405
+   0.019574 lunch bag cars blue                    1173 0.045286 lunch bag pink polkadot                 507       0.46    10.086
+   0.010887 jumbo bag red retrospot                2135 0.082426 suki  shoulder bag                      282       0.53     6.443
+   0.010926 jumbo bag vintage doily                 724 0.027952 jumbo bag vintage leaf                  283       0.32    11.440
+   0.011273 jumbo bag spaceboy design               692 0.026716 jumbo bag woodland animals              292       0.33    12.534
+   0.015829 jumbo bag apples                        999 0.038568 jumbo bag pears                         410       0.68    17.688
+   0.014207 lunch bag apple design                 1049 0.040499 lunch bag cars blue                     368       0.31     7.747
+   0.011814 charlotte bag suki design               894 0.034515 lunch bag  black skull.                 306       0.24     6.846
+   0.010076 jumbo bag alphabet                      920 0.035518 lunch bag alphabet design               261       0.35     9.759
+   0.010424 jam making set printed                 1174 0.045325 white hanging heart t-light holder      270       0.12     2.588
+   0.016640 jumbo bag pink polkadot                1231 0.047525 jumbo bag woodland animals              431       0.49    10.400
+   0.011814 cook with wine metal sign               734 0.028338 please one person metal sign            306       0.36    12.630
+   0.010076 charlotte bag pink polkadot             760 0.029341 pack of 72 retrospot cake cases         261       0.20     6.668
+   0.011428 jam making set printed                 1174 0.045325 regency cakestand 3 tier                296       0.14     3.011
+   0.021736 lunch bag red retrospot                1607 0.062042 lunch bag spaceboy design               563       0.48     7.756
+   0.013204 vintage heads and tails card game       611 0.023589 vintage snap cards                      342       0.37    15.606
+   0.014555 alarm clock bakelike ivory              583 0.022508 alarm clock bakelike red                377       0.35    15.495
+   0.014169 jumbo storage bag skulls                708 0.027334 jumbo storage bag suki                  367       0.31    11.180
+   0.011505 jumbo bag toys                          530 0.020462 jumbo storage bag suki                  298       0.25    12.126
+   0.016022 jumbo bag red retrospot                2135 0.082426 jumbo storage bag skulls                415       0.59     7.111
+   0.012045 jam making set printed                 1174 0.045325 jumbo bag red retrospot                 312       0.15     3.224
+   0.012084 set of 3 butterfly cookie cutters       696 0.026871 set of 3 heart cookie cutters           313       0.45    16.906
+   0.011852 lunch bag red retrospot                1607 0.062042 lunch bag vintage leaf design           307       0.46     7.364
+   0.012084 dotcom postage                          709 0.027372 red toadstool led night light           313       0.36    13.281
+---------------------------------------------------------------------------------------------------------------------------------

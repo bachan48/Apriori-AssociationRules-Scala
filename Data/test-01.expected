@@ -1,0 +1,36 @@
+9687 records, only 6616 items above support threshold 9 (0.001).
+
+SupportPair-Item                      - Freq -Support-Bought with           - FreqPair-Confidence-     Lift
+-----------------------------------------------------------------------------------------------------------
+   0.000929 Clinkenbeard, Colleen         10 0.001032 Stoddard, Mark (I)             9       1.00   968.700
+   0.000929 Stole, Mink                   11 0.001136 Pearce, Mary Vivian            9       1.00   880.636
+   0.001032 McFarland, Mike (II)          12 0.001239 Clinkenbeard, Colleen         10       1.00   807.250
+   0.000929 McFarland, Mike (II)          12 0.001239 Stoddard, Mark (I)             9       1.00   807.250
+   0.000929 Paris, Julie                  12 0.001239 Restivo, Steve                 9       1.00   807.250
+   0.001136 Sandler, Sadie                12 0.001239 Sandler, Sunny                11       1.00   807.250
+   0.000929 Lockhart, Scott               13 0.001342 Jameson, Chris (II)            9       1.00   745.154
+   0.001548 Breslau, Susan                16 0.001652 Zucker, Charlotte             15       1.00   605.438
+   0.001136 McKenzie, Tiffany Sander      22 0.002271 Fitzgerald, Jim (XII)         11       1.00   440.318
+   0.000929 McKenzie, Tiffany Sander      22 0.002271 McMurray, F. Robert (I)        9       1.00   440.318
+   0.000929 Teague, Gary                  26 0.002684 Cervenka, Gene                 9       1.00   372.577
+   0.001136 Elizondo, Hector (I)          27 0.002787 Marshall, Barbara (I)         11       1.00   358.778
+   0.001136 Elizondo, Hector (I)          27 0.002787 Marshall, Scott (I)           11       1.00   358.778
+   0.000929 Elizondo, Hector (I)          27 0.002787 Restivo, Steve                 9       1.00   358.778
+   0.001136 Kania, William (I)            27 0.002787 Fitzgerald, Jim (XII)         11       1.00   358.778
+   0.001136 Kania, William (I)            27 0.002787 McCue, David Dale             11       1.00   358.778
+   0.000929 Kearns, Patrick (III)         27 0.002787 Cefalu, David Michael          9       1.00   358.778
+   0.001239 Kearns, Patrick (III)         27 0.002787 Lebrun, Justin (I)            12       1.00   358.778
+   0.000929 Struffolino, David            27 0.002787 Murray, Ken (III)              9       1.00   358.778
+   0.000929 Nardozzi, Phil                28 0.002890 McMurray, F. Robert (I)        9       1.00   345.964
+   0.001032 Bizik, Robert (I)             31 0.003200 Wooten, John (III)            10       1.00   312.484
+   0.001136 Hall, London                  35 0.003613 Boyd, Jim (II)                11       1.00   276.771
+   0.000929 Hall, London                  35 0.003613 Murray, Ken (III)              9       1.00   276.771
+   0.000929 Hall, London                  35 0.003613 Patton, Jim (III)              9       1.00   276.771
+   0.001342 Hall, London                  35 0.003613 Replogle, Stew                13       1.00   276.771
+   0.000929 Ratzenberger, John (I)        35 0.003613 Pidgeon, Jeff                  9       1.00   276.771
+   0.001652 McGowan, Mickie               37 0.003820 Cygan, John (I)               16       1.00   261.811
+   0.001652 Lynn, Sherry (I)              43 0.004439 Cygan, John (I)               16       1.00   225.279
+   0.001652 Travolta, John (I)            44 0.004542 Loren, Nick                   16       1.00   220.159
+   0.001239 Sandler, Adam (I)             45 0.004645 Grady, Kevin (I)              12       1.00   215.267
+-----------------------------------------------------------------------------------------------------------
+Found 1688 records. Printed only 30.

@@ -1,0 +1,42 @@
+7501 records, only 36 items above support threshold 225 (0.03).
+
+SupportPair-Item                - Freq -Support-Bought with     - FreqPair-Confidence-     Lift
+-----------------------------------------------------------------------------------------------
+   0.040928 mineral water         1788 0.238368 ground beef            307       0.42     1.748
+   0.039195 spaghetti             1306 0.174110 ground beef            294       0.40     2.291
+   0.035729 mineral water         1788 0.238368 frozen vegetables      268       0.37     1.572
+   0.047994 mineral water         1788 0.238368 milk                   360       0.37     1.554
+   0.033729 mineral water         1788 0.238368 pancakes               253       0.35     1.489
+   0.059725 mineral water         1788 0.238368 spaghetti              448       0.34     1.439
+   0.052660 mineral water         1788 0.238368 chocolate              395       0.32     1.348
+   0.050927 mineral water         1788 0.238368 eggs                   382       0.28     1.189
+   0.035462 spaghetti             1306 0.174110 milk                   266       0.27     1.572
+   0.059725 spaghetti             1306 0.174110 mineral water          448       0.25     1.439
+   0.032129 chocolate             1229 0.163845 milk                   241       0.25     1.513
+   0.039195 spaghetti             1306 0.174110 chocolate              294       0.24     1.374
+   0.030796 eggs                  1348 0.179709 milk                   231       0.24     1.322
+   0.031063 mineral water         1788 0.238368 green tea              233       0.24     0.986
+   0.039195 ground beef            737 0.098254 spaghetti              294       0.23     2.291
+   0.039195 chocolate             1229 0.163845 spaghetti              294       0.23     1.374
+   0.052660 chocolate             1229 0.163845 mineral water          395       0.22     1.348
+   0.050927 eggs                  1348 0.179709 mineral water          382       0.21     1.189
+   0.036395 eggs                  1348 0.179709 french fries           273       0.21     1.185
+   0.034395 french fries          1282 0.170911 chocolate              258       0.21     1.228
+   0.036528 eggs                  1348 0.179709 spaghetti              274       0.21     1.167
+   0.035462 milk                   972 0.129583 spaghetti              266       0.20     1.572
+   0.036528 spaghetti             1306 0.174110 eggs                   274       0.20     1.167
+   0.033196 eggs                  1348 0.179709 chocolate              249       0.20     1.127
+   0.036395 french fries          1282 0.170911 eggs                   273       0.20     1.185
+   0.047994 milk                   972 0.129583 mineral water          360       0.20     1.554
+   0.034395 chocolate             1229 0.163845 french fries           258       0.20     1.228
+   0.033729 mineral water         1788 0.238368 french fries           253       0.20     0.828
+   0.032129 milk                   972 0.129583 chocolate              241       0.20     1.513
+   0.033196 chocolate             1229 0.163845 eggs                   249       0.18     1.127
+   0.040928 ground beef            737 0.098254 mineral water          307       0.17     1.748
+   0.030796 milk                   972 0.129583 eggs                   231       0.17     1.322
+   0.035729 frozen vegetables      715 0.095321 mineral water          268       0.15     1.572
+   0.033729 pancakes               713 0.095054 mineral water          253       0.14     1.489
+   0.033729 french fries          1282 0.170911 mineral water          253       0.14     0.828
+   0.031063 green tea              991 0.132116 mineral water          233       0.13     0.986
+-----------------------------------------------------------------------------------------------
+Found 36 records.
